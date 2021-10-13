@@ -1,1 +1,0 @@
-<class 'qgis._core.QgsVectorLayer'>
